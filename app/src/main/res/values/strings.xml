@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pencarian Lokasi\nRental Motor</string>
+    <string name="cari_rumah_sakit">Cari Rental Motor</string>
+    <string name="googleApiKey">AIzaSyDEVtxtbO_XqSYc4OWv7kB66n07p4EzVno</string>
+    <string name="daftar_rumah_sakit">Daftar \Rental Motor</string>
+    <string name="tentang_aplikasi">Tentang \nAplikasi</string>
+    <string name="_2017_stmik_global">2018 Amikom </string>
+    <string name="cari">Cari !</string>
+    <string name="jarak_km">Jarak Km :</string>
+    <string name="minus">-</string>
+    <string name="jarak">Jarak</string>
+    <string name="alamat">Alamat</string>
+    <string name="jumlah_rumah_sakit">Jumlah Rental Motor :</string>
+    <string name="tentang">Aplikasi yang bertujuan untuk membantu pengguna dalam mencari lokasi rumah sakit terdekat khususnya di daerah Tangerang.\n
+    Dengan menggunakan aplikasi ini pengguna dapat mengetahui daftar rumah sakit di kota Tangerang. Informasi yang didapat adalah lokasi dan alamat.\n
+    Selain mendapat informasi pengguna juga bisa mengetahui jarak user ke sebuah rumah sakit. Pengguna juga bisa melakukan tracking menggunakan aplikasi bawaan Android yaitu Google Map.</string>
+    <string name="fasilitas">Fasilitas</string>
+    <string name="need_permission"><![CDATA[Kami membutuhkan izin tersebut untuk beberapa fitur   Anda dapat mengubahnya di [Setting] > [Permission]]]></string>
+
+</resources>
+
+
